@@ -16,24 +16,6 @@ Desenvolvido por **Lucas Fernandes** — Desenvolvedor Web.
 
 ---
 
-## Como rodar
-
-```bash
-# 1. Instalar dependências
-npm install
-
-# 2. Rodar em desenvolvimento (abre http://localhost:3000)
-npm run dev
-
-# 3. Build de produção
-npm run build
-
-# 4. Preview do build
-npm run preview
-```
-
----
-
 ## Estrutura do projeto
 
 ```

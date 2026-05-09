@@ -1,7 +1,7 @@
 # ForceHub Performance Studio
 
 Site institucional multi-página para academia de alta performance.  
-Desenvolvido por **Lucas Fernandes** — Desenvolvedor Web.
+Desenvolvido por **Lucas Fernandes** — Desenvolvedor Web
 
 ---
 
